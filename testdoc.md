@@ -14,15 +14,18 @@ suggestions.
 
 
 **0 Types of Contributions We're Looking For**
+
 We’re looking for any type of contributions, in particular the following: 
 Gameplay features 
 Improvements to CTF mechanics such as: 
 • Logic 
 • Scoring 
 • UI 
+
 Code 
 • New features 
 • Improving code quality, structure or efficiency  
+
 Documentation 
 Improving any documentation including: 
 • README.md 
@@ -30,9 +33,11 @@ Improving any documentation including:
 • CONTRIBUTING.md   
 • Suggestions for improving clarity. 
 • Correcting typos. 
-Bug Reports 
+
+Bug Reports
 • Reporting gameplay issues  
 • UI inconsistencies 
+
 Suggestions 
 • Any ideas for new features 
 • Improvements to current features 
