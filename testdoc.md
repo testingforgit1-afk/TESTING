@@ -1,44 +1,87 @@
-**Introduction**
+# **Introduction**
 
-Thank you for your interest in contributing to Capture the Flag (CTF) Game 
-Mode for Hypersomnia! 
-The goal of the project is to extend the existing gameplay, and we welcome 
-any type of contributions including code, documentation, bug reports, and 
-suggestions.
+Thank you for your interest in contributing to Capture the Flag (CTF) Game Mode for Hypersomnia!  
+The goal of the project is to extend the existing gameplay, and we welcome all types of contributions including code, documentation, bug reports, and suggestions.
 
-**Table of Contents**
-0 Types of contributions we're looking for 
-1 How to contribute 
-2 Coding conventions 
-3 Language 
+---
 
+# **Table of Contents**
 
-**0 Types of Contributions We're Looking For**
+- [0. Types of Contributions We're Looking For](#0-types-of-contributions-were-looking-for)
+- [1. How to Contribute](#1-how-to-contribute)
+- [2. Coding Conventions](#2-coding-conventions)
+- [3. Language](#3-language)
 
-We’re looking for any type of contributions, in particular the following: 
-Gameplay features 
-Improvements to CTF mechanics such as: 
-• Logic 
-• Scoring 
-• UI 
+---
 
-Code 
-• New features 
-• Improving code quality, structure or efficiency  
+# **0. Types of Contributions We're Looking For**
 
-Documentation 
-Improving any documentation including: 
-• README.md 
-• SECURITY.md 
-• CONTRIBUTING.md   
-• Suggestions for improving clarity. 
-• Correcting typos. 
+We welcome contributions of all kinds, including:
 
-Bug Reports
-• Reporting gameplay issues  
-• UI inconsistencies 
+### **Gameplay Features**
+Improvements to CTF mechanics such as:
+- Logic  
+- Scoring  
+- UI  
 
-Suggestions 
-• Any ideas for new features 
-• Improvements to current features 
-• Feedback on user experience  
+### **Code**
+- New features  
+- Improving code quality, structure, or efficiency  
+
+### **Documentation**
+Improving any documentation, including:
+- `README.md`  
+- `SECURITY.md`  
+- `CONTRIBUTING.md`  
+- Suggestions for improving clarity  
+- Correcting typos  
+
+### **Bug Reports**
+- Reporting gameplay issues  
+- UI inconsistencies  
+
+### **Suggestions**
+- Ideas for new features  
+- Improvements to current features  
+- Feedback on user experience  
+
+---
+
+# **1. How to Contribute**
+
+To contribute, follow these steps:
+
+**Step 1: Fork the repository**  
+Go to the project’s GitHub page and click **Fork** in the top-right corner.
+
+**Step 2: Create a feature branch**  
+After cloning your fork, create a new branch:  
+`git checkout -b feature/my-new-feature`
+
+**Step 3: Commit your changes**  
+Make your edits and commit with a clear message:  
+`git commit -m "Add new CTF feature"`
+
+**Step 4: Push your branch**  
+Upload your branch to your GitHub fork:  
+`git push origin feature/my-new-feature`
+
+**Step 5: Submit a pull request**  
+- Go to your fork on GitHub  
+- Click **Compare and pull request**  
+- Add a title and description  
+- All pull requests will be reviewed before merging  
+
+---
+
+# **2. Coding Conventions**
+
+- The project uses **C++**, matching the Hypersomnia codebase  
+- Follow the existing Hypersomnia coding style  
+- Use clear, descriptive variable and function names  
+
+---
+
+# **3. Language**
+
+All documentation, comments, and commit messages should be written clearly and professionally.
